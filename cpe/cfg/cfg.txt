@@ -1,0 +1,17 @@
+
+[cwmp]
+username=long
+password=123456
+username=wusha
+password=9507
+host=127.0.0.1
+port=8080
+userAgent=cwmp-agent
+uri=/
+
+auth-realm=cwmp
+auth-nonce=cwmp
+auth-qop=auth
+auth-uri=/
+
+
