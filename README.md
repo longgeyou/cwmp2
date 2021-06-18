@@ -1,2 +1,2 @@
 # cwmp2
-reform tr069 doc
+refer to tr069 doc
